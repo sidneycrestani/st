@@ -1,1 +1,10 @@
 config.h
+st
+st.o
+x.o
+st-alpha-0.8.2.diff
+st-blinking_cursor-20200531-a2a7044.diff
+st-font2-20190416-ba72400.diff
+st-scrollback-20200419-72e3f6c.diff
+st-scrollback-mouse-20191024-a2c479c.diff
+st-scrollback-mouse-altscreen-20200416-5703aa0.diff
